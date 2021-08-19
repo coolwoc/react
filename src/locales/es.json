@@ -1,0 +1,12 @@
+{
+  "intro": {
+    "title": "Mi Contador",
+    "selectLabel": "Languaje"
+  },
+  "counter": {
+    "value": "Valor: ",
+    "increment": "+ Incremento",
+    "decrement": "- Decremento",
+    "reset": "Reiniciar"
+  }
+}

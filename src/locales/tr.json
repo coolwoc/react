@@ -1,0 +1,12 @@
+{
+  "intro": {
+    "title": "Sayacım",
+    "selectLabel": "Dil"
+  },
+  "counter": {
+    "value": "Değer: ",
+    "increment": "+ Artış",
+    "decrement": "- Azalma" ,
+    "reset": "Sıfırla"
+  }
+}

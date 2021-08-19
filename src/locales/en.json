@@ -1,0 +1,12 @@
+{
+  "intro": {
+    "title": "My Counter",
+    "selectLabel": "Language"
+  },
+  "counter": {
+    "value": "Value: ",
+    "increment": "+ Increment",
+    "decrement": "- Decrement",
+    "reset": "Reset"
+  }
+}
